@@ -73,6 +73,12 @@ Make sure your Node.js version is 20+ LTS for full compatibility.
 
 .gitignore is included to avoid committing node_modules and build files.
 
+## Local Developement Output
+
+When running the application locally, the API returns the following response.This demonstrates successful data retrieval and processing:
+
+![API Response](images/users.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
